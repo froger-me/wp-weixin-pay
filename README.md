@@ -1,4 +1,4 @@
-# WP Weixin Pay - WordPress Simple WeChat Pay integration
+# WP Weixin Pay - Simple WeChat Pay integration for WordPress
 
 * [General description](#user-content-general-description)
 	* [Requirements](#user-content-requirements)

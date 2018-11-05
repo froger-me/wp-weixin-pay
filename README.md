@@ -27,7 +27,7 @@ This plugin adds the following major features to WP Weixin:
 
 ### Screenshots
 
-<img src="https://ps.w.org/woo-wechatpay/assets/screenshot-1.png" alt="Payment screen" width="25%"> <img src="https://ps.w.org/woo-wechatpay/assets/screenshot-2.png" alt="Payment QR code" width="72%"> <img src="https://ps.w.org/woo-wechatpay/assets/screenshot-3.png" alt="Payment settings" width="100%">
+<img src="https://ps.w.org/wp-weixin-pay/assets/screenshot-1.png" alt="Payment screen" width="25%"> <img src="https://ps.w.org/wp-weixin-pay/assets/screenshot-2.png" alt="Payment QR code" width="72%"> <img src="https://ps.w.org/wp-weixin-pay/assets/screenshot-3.png" alt="Payment settings" width="100%">
 
 ## Settings
 
